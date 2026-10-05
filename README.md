@@ -379,7 +379,7 @@
 
 <script>
     // 🚨【請將下方的 API 網址替換為您從 Google Apps Script 部署獲得的 Web App URL】
-    const GAS_API_URL = "https://script.google.com/macros/s/YOUR_APPS_SCRIPT_ID_HERE/exec";
+    const GAS_API_URL = "[https://script.google.com/macros/s/YOUR_APPS_SCRIPT_ID_HERE/exec](https://script.google.com/macros/s/AKfycbynTjevnhwe8z4IhJ-tNkKD6TYxV0uONf6kMDQfRTzILSoVC7-37xSNg5eYcp9SSiwZ/exec)";
 
     // 前後台模式狀態：'frontend' 或 'backend'
     let currentMode = 'frontend';
